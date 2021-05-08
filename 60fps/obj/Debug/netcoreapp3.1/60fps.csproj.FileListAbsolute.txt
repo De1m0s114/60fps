@@ -1,0 +1,13 @@
+D:\учеба\60fps\60fps\bin\Debug\netcoreapp3.1\60fps.exe
+D:\учеба\60fps\60fps\bin\Debug\netcoreapp3.1\60fps.deps.json
+D:\учеба\60fps\60fps\bin\Debug\netcoreapp3.1\60fps.runtimeconfig.json
+D:\учеба\60fps\60fps\bin\Debug\netcoreapp3.1\60fps.runtimeconfig.dev.json
+D:\учеба\60fps\60fps\bin\Debug\netcoreapp3.1\60fps.dll
+D:\учеба\60fps\60fps\bin\Debug\netcoreapp3.1\60fps.pdb
+D:\учеба\60fps\60fps\obj\Debug\netcoreapp3.1\60fps.csprojAssemblyReference.cache
+D:\учеба\60fps\60fps\obj\Debug\netcoreapp3.1\60fps.AssemblyInfoInputs.cache
+D:\учеба\60fps\60fps\obj\Debug\netcoreapp3.1\60fps.AssemblyInfo.cs
+D:\учеба\60fps\60fps\obj\Debug\netcoreapp3.1\60fps.csproj.CoreCompileInputs.cache
+D:\учеба\60fps\60fps\obj\Debug\netcoreapp3.1\60fps.dll
+D:\учеба\60fps\60fps\obj\Debug\netcoreapp3.1\60fps.pdb
+D:\учеба\60fps\60fps\obj\Debug\netcoreapp3.1\60fps.genruntimeconfig.cache
