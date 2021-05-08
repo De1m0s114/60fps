@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aQsviot22JtjLyfrPVhIpx12opKocCfi3HDK8LR4WpY9R5h51OIJGoRJSTz+YYaHRdSph2WAXCsFjGz2bnz5YQ==",
+  "dgSpecHash": "+BoE2XmPLmyC1oOKKAoch1tP1JAwBeG9ZBSrui3z2WLGgtdXNkDMvZWXbASY94QgG9CuzcCTvkL74Cwd5NiUZA==",
   "success": true,
-  "projectFilePath": "D:\\учеба\\60fps\\60fpsTest\\60fpsTest.csproj",
+  "projectFilePath": "D:\\учеба\\60fps\\60fps\\60fpsTest\\60fpsTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yegor\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
     "C:\\Users\\yegor\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

@@ -4644,11 +4644,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\учеба\\60fps\\60fpsTest\\60fpsTest.csproj",
+      "projectUniqueName": "D:\\учеба\\60fps\\60fps\\60fpsTest\\60fpsTest.csproj",
       "projectName": "60fpsTest",
-      "projectPath": "D:\\учеба\\60fps\\60fpsTest\\60fpsTest.csproj",
+      "projectPath": "D:\\учеба\\60fps\\60fps\\60fpsTest\\60fpsTest.csproj",
       "packagesPath": "C:\\Users\\yegor\\.nuget\\packages\\",
-      "outputPath": "D:\\учеба\\60fps\\60fpsTest\\obj\\",
+      "outputPath": "D:\\учеба\\60fps\\60fps\\60fpsTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yegor\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4665,8 +4665,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\учеба\\60fps\\60fps\\60fps.csproj": {
-              "projectPath": "D:\\учеба\\60fps\\60fps\\60fps.csproj"
+            "D:\\учеба\\60fps\\60fps\\60fps\\60fps.csproj": {
+              "projectPath": "D:\\учеба\\60fps\\60fps\\60fps\\60fps.csproj"
             }
           }
         }
